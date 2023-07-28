@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+}
+body{
+    background-image: url("https://source.unsplash.com/1600x900/?study");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
