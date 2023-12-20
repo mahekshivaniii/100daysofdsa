@@ -1,1 +1,1 @@
-# 100daysofdsa
+# learning DSA in JavaScript
