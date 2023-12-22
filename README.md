@@ -16,6 +16,6 @@ and there is alternvativetly in for in loop
   <p>const and let keyword is blocked Scope</p>
   <p>var keyword is functional scope</p>
   <p><b>Arrow function = fat Arrow function</b></p>
-  <p>Backtick used to print a sentence in a single line</p>
+  <p>Backtick used to print a sentence in a single line <br> we can put an element in an array and when we print that element we get undefined</p>
 </body>
 </html>
