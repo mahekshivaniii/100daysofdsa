@@ -15,5 +15,6 @@ and there is alternvativetly in for in loop
   <p>we can re assign value in let keyword</p>
   <p>const and let keyword is blocked Scope</p>
   <p>var keyword is functional scope</p>
+  <p><b>Arrow function = fat Arrow function</b></p>
 </body>
 </html>
