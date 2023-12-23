@@ -5,5 +5,5 @@ let obj = {
 }
 
 
-let[a,b,c] = obj
+let{a,b,c} = obj
  console.log(a)
