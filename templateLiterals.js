@@ -3,7 +3,7 @@ console.log(`Mahek
 Shivani`)
 
 //conacat by comma(,)
-let a = 67
+const a = 67
  console.log("My age is " , a)
 
  //concat by add sign(+)
@@ -14,3 +14,11 @@ let a = 67
  //concat by $
   console.log(`My age  is ${a}`)
  
+  //tricky questions
+  const obj = { foo: 1 }
+  obj.bar = 2
+  console.log(obj)
+
+
+
+  console.log(typeof (new (class { class () {} })))
