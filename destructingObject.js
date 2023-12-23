@@ -3,3 +3,7 @@ let obj = {
     gender:'F',
     age:78
 }
+
+
+let[a,b,c] = obj
+ console.log(a)
