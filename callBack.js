@@ -3,3 +3,10 @@ function  firstName(firstName){
 }
 
 firstName('Tony')
+
+
+function lastName(lastName){
+    console.log(lastName)
+}
+
+lastName('Stark')
