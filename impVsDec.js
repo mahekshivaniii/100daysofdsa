@@ -1,6 +1,6 @@
 // wap to check a square of a number is even or odd\
 
-let n = prompt("enter a number")
+var n =9
 let squareNum = n*n
 
 let isEven
