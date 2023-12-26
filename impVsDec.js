@@ -13,3 +13,11 @@ else{
 }
 
 console.log(isEven)
+
+
+
+// Declarative way of writing code
+
+const checkSquare = (x) => (x*x % 2 == 0 ? true:false)
+
+console.log(checkSquare(4))
