@@ -9,3 +9,14 @@ function add(num2)
 add(2)
 add(2)
 add(2)
+
+// pure function
+
+function sum(x,a){
+    console.log(x+a)
+}
+
+
+sum(2,3) //if the change the parameters then its a impure function you can call sum function as many you want without changing the paramemters
+sum(2,3)
+sum(2,3)
