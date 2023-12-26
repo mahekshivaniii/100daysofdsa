@@ -2,7 +2,8 @@
 # differnce between for in and for of loop is :
 in for of loop the variable is access like a value 
 and there is alternvativetly in for in loop
-<p> for of loop = for Loop <br>
+
+<p style="color: yellow;"> for of loop = for Loop <br>
   ES6 = Ecma Script </p>
   <p> Ecma = Eurpean computer manfactuerers Association</p>
   <p>we cannot reassign aur re decalre value in const keyword</p>
