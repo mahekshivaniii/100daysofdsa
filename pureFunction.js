@@ -11,7 +11,7 @@ add(2)
 add(2)
 
 // pure function
-
+// this is partial pure function it uses external factor(console and log)
 function sum(x,a){
     console.log(x+a)
 }
@@ -20,3 +20,12 @@ function sum(x,a){
 sum(2,3) //if the change the parameters then its a impure function you can call sum function as many you want without changing the paramemters
 sum(2,3)
 sum(2,3)
+
+
+
+// fully pure function
+function add1(m,n){
+    return m+n
+}
+
+console.log(add1(4,5))
