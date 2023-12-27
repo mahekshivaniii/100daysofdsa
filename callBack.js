@@ -1,12 +1,13 @@
-function  firstName(firstName){
+function  firstName(firstName,cb){
     console.log(firstName)
+    cb('Stark')
 }
 
-firstName('Tony')
+firstName('Tony',last_Name)
 
 
-function lastName(lastName){
+function last_Name(lastName){
     console.log(lastName)
 }
 
-lastName('Stark')
+// lastName('Stark')
