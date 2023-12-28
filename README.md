@@ -28,3 +28,4 @@ and there is alternvativetly in for in loop
    </ul>
   </h3>
   </div>
+<p>to fixed is used to remove decimal points it is a function</p>
