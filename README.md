@@ -20,5 +20,11 @@ and there is alternvativetly in for in loop
 
 
   <div><h2 align="center">Map  function</h2>
-   <h3 align="center">its loop through every element of an array and perform specefic  task.</h3>
+   <h3 align="center"> 
+   <ul>
+  <li>it work as an for loop and traverse each element of an array </li>
+  <li>it will return a result as an array </li>
+  <li>we dont have to create an array explicitly</li>
+   </ul>
+  </h3>
   </div>
