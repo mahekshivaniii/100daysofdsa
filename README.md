@@ -29,3 +29,10 @@ and there is alternvativetly in for in loop
   </h3>
   </div>
 <p>to fixed is used to remove decimal points it is a function</p>
+
+<div> <h2 align="center"> for each </h2>
+<ul>
+  <li>for each work same as a map function</li>
+  <li>the different between for each and map is for each cannot return but  map  can do</li>
+</ul>
+</div>
