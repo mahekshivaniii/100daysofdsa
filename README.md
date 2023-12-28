@@ -25,7 +25,8 @@ and there is alternvativetly in for in loop
   <li>it work as an for loop and traverse each element of an array </li>
   <li>it will return a result as an array </li>
   <li>we dont have to create an array explicitly</li>
-   </ul>
+  <li>it display value in an array</li>  
+</ul>
   </h3>
   </div>
 <p>to fixed is used to remove decimal points it is a function</p>
@@ -34,5 +35,6 @@ and there is alternvativetly in for in loop
 <ul>
   <li>for each work same as a map function</li>
   <li>the different between forEach and map is forEach cannot return but  map  can do</li>
+  <li>it display value in a  normal format</li>
 </ul>
 </div>
