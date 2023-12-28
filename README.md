@@ -17,3 +17,8 @@ and there is alternvativetly in for in loop
     <p>high order function receives a function</p>
     <p>call back function pass a function as an argument</p>
   <div><i><b>pure function = </b></i> same input and same output</div>
+
+
+  <div><h2 align="center">Map  function</h2>
+   <h3 align="center">its loop through every element of an array and perform specefic  task.</h3>
+  </div>
