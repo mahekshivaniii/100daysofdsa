@@ -6,7 +6,8 @@ function  firstName(firstName,cb){
 firstName('Tony',last_Name)
 
 
-function last_Name(lastName){
+function last_Name(lastName)//call back function
+{
     console.log(lastName)
 }
 
