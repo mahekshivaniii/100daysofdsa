@@ -40,10 +40,13 @@ and there is alternvativetly in for in loop
 </div>
 
 <div align="center">
-  <h1 >Find</h1>
+  <h1><b>Find</b></h1>
   <ul >
     <li>it return the first element of an array that satsify the condition</li>
   </ul>
-  
+  <h2><b>findIndex</b></h2>
+  <ul>
+    <li>it uses to do some changes on that value of an array that we find on the find function (by indexing)</li>
+  </ul>
 </div>
 <!-- <p>create a new file and learning find find index</p> -->
