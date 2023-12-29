@@ -38,4 +38,4 @@ and there is alternvativetly in for in loop
   <li>it display value in a  normal format</li>
 </ul>
 </div>
-<p>create a new file and learning find find index</p>
+<!-- <p>create a new file and learning find find index</p> -->
