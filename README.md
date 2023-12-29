@@ -54,5 +54,7 @@ and there is alternvativetly in for in loop
     <li>it will return the value boolean value</li>
     <li>if will return 1 even if the one element satsify the condition</li>
   </ul>
+  <h2><b>Every</b></h2>
+  <p>this function is the vice versa of some function</p>
 </div>
 <!-- <p>create a new file and learning find find index</p> -->
