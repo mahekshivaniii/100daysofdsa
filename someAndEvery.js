@@ -7,3 +7,6 @@ let checkNum = num.some((n) => {
 })
 
 console.log(checkNum)
+
+
+//every
