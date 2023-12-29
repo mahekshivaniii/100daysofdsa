@@ -47,6 +47,7 @@ and there is alternvativetly in for in loop
   <h2><b>findIndex</b></h2>
   <ul>
     <li>it uses to do some changes on that value of an array that we find on the find function (by indexing)</li>
+    <li>it find the index of an particular condition</li>
   </ul>
 </div>
 <!-- <p>create a new file and learning find find index</p> -->
