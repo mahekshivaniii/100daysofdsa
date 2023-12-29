@@ -38,4 +38,12 @@ and there is alternvativetly in for in loop
   <li>it display value in a  normal format</li>
 </ul>
 </div>
+
+<div align="center">
+  <h1 >Find</h1>
+  <ul >
+    <li>it return the first element of an array that satsify the condition</li>
+  </ul>
+  
+</div>
 <!-- <p>create a new file and learning find find index</p> -->
