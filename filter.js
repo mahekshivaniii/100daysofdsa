@@ -12,3 +12,8 @@ for(let i = 0 ; i < evenArr.length;i++){
 }
 
 console.log(putArr)
+
+let evenNum = evenArr.filter((n) => {
+    return n%2 == 0
+
+})
