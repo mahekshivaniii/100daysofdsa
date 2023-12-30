@@ -17,3 +17,5 @@ let evenNum = evenArr.filter((n) => {
     return n%2 == 0
 
 })
+
+console.log(evenNum)
