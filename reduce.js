@@ -7,3 +7,12 @@ for(let i = 0;i<arr.length;i++){
 }
 
 console.log(sum)
+
+
+// Reduce function
+
+const num = arr.reduce((n) => {
+    return sum+=n
+})
+ 
+console.log(num)

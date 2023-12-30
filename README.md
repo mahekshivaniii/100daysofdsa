@@ -62,3 +62,10 @@ and there is alternvativetly in for in loop
   <h1 >Filter method</h1>
   <ul type="disc"> <li>it will return a new array and all the element in it that satsify the condition </li></ul>
 </div>
+
+<div align="center">
+  <h1>Reduce Method</h1>
+  <ul type="square"> <li> it takes 4 argument but i take only 2 argument </li>
+   <li>it return only single value.</li>
+  </ul>
+</div>
