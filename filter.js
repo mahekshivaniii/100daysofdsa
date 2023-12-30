@@ -19,3 +19,12 @@ let evenNum = evenArr.filter((n) => {
 })
 
 console.log(evenNum)
+
+
+const transcation = [3000,53,55,6425,-800,-6475]
+
+const checkTranscation = transcation.filter((n) => {
+    return n<0
+})
+
+console.log(checkTranscation)
