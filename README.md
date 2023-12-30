@@ -57,3 +57,8 @@ and there is alternvativetly in for in loop
   <h2><b>Every</b></h2>
   <p>this function is the vice versa of some function</p>
 </div>
+
+<div align="center">
+  <h1 >Filter method</h1>
+  <ul type="disc"> <li>it will return a new array and all the element in it that satsify the condition </li></ul>
+</div>
