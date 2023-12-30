@@ -67,5 +67,6 @@ and there is alternvativetly in for in loop
   <h1>Reduce Method</h1>
   <ul type="square"> <li> it takes 4 argument but i take only 2 argument </li>
    <li>it return only single value.</li>
+   <li><b>accumulator is assign the value like if we want to perform multiply on an array then we have to start the value from one(1)</b></li>
   </ul>
 </div>
