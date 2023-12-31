@@ -10,3 +10,7 @@ let arr = [
 ]
 
 //find out ages of men(males) using filter function 
+let  males = arr.filter((n) => {
+    return n.gender == m
+})
+ console.log(males)
