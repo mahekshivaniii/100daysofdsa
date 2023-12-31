@@ -70,3 +70,10 @@ and there is alternvativetly in for in loop
    <li><b>accumulator is assign the value like if we want to perform multiply on an array then we have to start the value from one(1).</b></li>
   </ul>
 </div>
+
+<div align="center"> 
+  <h1>Chaining Method</h1>
+  <ul type="circle">
+    <li> </li>
+  </ul>
+</div>
