@@ -9,4 +9,4 @@ let arr = [
     {name:'h',age:21,gender:'f'}
 ]
 
-//find out ages of men(males)
+//find out ages of men(males) using filter function 
