@@ -8,3 +8,5 @@ let arr = [
     {name:'g',age:30,gender:'m'},
     {name:'h',age:21,gender:'f'}
 ]
+
+//find out ages of men(males)
