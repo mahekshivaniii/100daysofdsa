@@ -18,3 +18,15 @@ let  malesAge = arr.filter((n) => {
 
 console.log(malesAge)
  
+
+// wap to add the filter out the (+ve) Element and calculate the sum of that Element
+
+const transcation = [23,56,-90,459,-682,1000]
+
+let sum = transcation.filter((n) =>{
+    return n > 0
+}) .reduce((acc,value) => {
+    return acc+value
+},0)
+
+console.log(sum)
