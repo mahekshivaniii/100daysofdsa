@@ -78,3 +78,16 @@ and there is alternvativetly in for in loop
     <li>making the chain of hof(high order function)</li>
   </ul>
 </div>
+
+<div align="center">
+  <h1>Practice Question</h1>
+  <ol>
+    <li>find peak element of an array which is greatest both the neighbours
+      <ul>
+        <li> input: [1,10,4]</li>
+        <li>output :10 </li>
+        <li>10 is greatest among both of these</li>
+      </ul>
+    </li>
+  </ol>
+</div>
