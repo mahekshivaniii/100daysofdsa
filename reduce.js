@@ -12,7 +12,7 @@ console.log(sum)
 // Reduce function
 
 const num = arr.reduce((acc , value) => {
-    return sum+=n
-})
+    return acc + value ;
+},0)
  
 console.log(num)
