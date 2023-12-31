@@ -26,3 +26,4 @@ let checkEven = (callback,num) => {
 }
 
 checkEven(evenFn,4)
+
