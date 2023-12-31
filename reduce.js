@@ -16,3 +16,12 @@ const num = arr.reduce((acc , value) => {
 },0)
  
 console.log(num)
+
+
+//doing multiplication using reduce 
+
+const mul = arr.reduce((a,value) => {
+    return a*value
+} , 1)
+
+console.log(mul)
