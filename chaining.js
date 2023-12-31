@@ -8,8 +8,8 @@ let arr = [
     {name:'g',age:30,gender:'m'},
     {name:'h',age:21,gender:'f'}
 ]
-
-//find out ages of men(males) using filter function 
+//perform to find out the age of males
+//separate all the males using filter function 
 let  males = arr.filter((n) => {
     return n.gender == 'm'
 })
