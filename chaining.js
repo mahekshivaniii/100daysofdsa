@@ -13,4 +13,11 @@ let arr = [
 let  males = arr.filter((n) => {
     return n.gender == 'm'
 })
- console.log(males)
+
+
+let age = males.map((n) =>{
+    return n.age
+})
+
+console.log(age)
+ //console.log(males)
