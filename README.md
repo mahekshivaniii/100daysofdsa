@@ -74,6 +74,7 @@ and there is alternvativetly in for in loop
 <div align="center"> 
   <h1>Chaining Method</h1>
   <ul type="circle">
-    <li>  </li>
+    <li> this method is used to combine two method in one  </li>
+    <li>making the chain of hof(high order function)</li>
   </ul>
 </div>
