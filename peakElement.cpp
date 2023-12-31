@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main (){
-    
+    // this is naive apporach
    
  int arr[4] ={5,10,20,15};
  
