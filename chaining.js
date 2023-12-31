@@ -10,14 +10,11 @@ let arr = [
 ]
 //perform to find out the age of males
 //separate all the males using filter function 
-let  males = arr.filter((n) => {
+let  malesAge = arr.filter((n) => {
     return n.gender == 'm'
-})
-
-
-let age = males.map((n) =>{
+}).map((n) =>{
     return n.age
 })
 
-console.log(age)
- //console.log(males)
+console.log(malesAge)
+ 
