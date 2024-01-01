@@ -80,7 +80,7 @@ and there is alternvativetly in for in loop
 </div>
 
 <div align="center">
-  <h1>Practice Question</h1>
+  <h1>Practice Question solved by naive approach</h1>
   <ol>
     <li>find peak element of an array which is greatest both the neighbours
       <ul>
@@ -89,5 +89,21 @@ and there is alternvativetly in for in loop
         <li>10 is greatest among both of these</li>
       </ul>
     </li>
-  </ol>
+   
+      <li>find min and max of an array
+        <ul>
+          <li>input : [1,45,56,34]</li>
+          <li>output 56,1</li>
+        </ul>
+      </li>
+      <li>Reverse an array
+        <ul>
+          <li>Even  input : [1,4,5,32]</li>
+          <li>output : 32,5,4,1</li>
+          <li>odd input : [1,23,4,5,6]</li>
+          <li>output : 6,5,4,23,1</li>
+        </ul>
+      </li>
+    </ol>
+ 
 </div>
