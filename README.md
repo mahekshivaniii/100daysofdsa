@@ -104,6 +104,21 @@ and there is alternvativetly in for in loop
           <li>output : 6,5,4,23,1</li>
         </ul>
       </li>
+      <li>Sort An array
+        <ul>
+          <li>input : [0,34,22,56,12]</li>
+          <li> output : [0,12,22,34,56]</li>
+          <li>use bubble sort</li>
+        </ul>
+      </li>
+      <li>Kth element
+        <ul> 
+          <li> input : [34.56,434,65] k =3</li>
+          <li> output the largest element id 434 and smallest is 34  </li>
+          <li>we traverse the array by k element</li>
+         </ul>
+
+      </li>
     </ol>
  
 </div>
