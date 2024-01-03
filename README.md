@@ -104,13 +104,17 @@ and there is alternvativetly in for in loop
         <li>when we print in function it gave global object</li>
         <li>when we print in arrow it gave the function name </li>
         <li>when we print in object -> function it gave  object itself </li>
-        <li> when we print in object->function->function it gave global objec</li>
+        <li> when we print in object->function->function it gave global object</li>
       </ol>
     </li>
     <li> strict mode (node js Enviornment) this2.js file
       <ol>
          <li>in this we have to write (use strict)</li>
          <li>when we console this keyword it display empty object</li>
+         <li>when we print in function it gave undefined</li>
+         <li>when we print in arrow function it gave function name</li>
+         <li>when we print object -> function it gave object itself</li>
+         <li>when we print in object -> function -> it gave undefined</li>
       </ol>
 
     </li>
