@@ -125,7 +125,7 @@ and there is alternvativetly in for in loop
  <div>
   <h1 align="center"> This keyword</h1>
   <ul>
-    <li>non-strice mode
+    <li>non-strice mode (node js Enviornment)
       <ol>
         <li>when we print this keyword it gave empty object</li>
         <li>when we print in function it gave global object</li>
