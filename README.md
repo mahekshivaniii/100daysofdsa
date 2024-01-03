@@ -120,5 +120,19 @@ and there is alternvativetly in for in loop
 
       </li>
     </ol>
- 
+  
 </div>
+ <div>
+  <h1 align="center"> This keyword</h1>
+  <ul>
+    <li>non-strice mode
+      <ol>
+        <li>when we print this keyword it gave empty object</li>
+        <li>when we print in function it gave global object</li>
+        <li>when we print in arrow it gave the function name </li>
+        <li>when we print in object -> function it gave  object itself </li>
+        <li> when we print in object->function->function it gave global objec</li>
+      </ol>
+    </li>
+  </ul>
+ </div>
