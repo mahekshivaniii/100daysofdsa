@@ -3,7 +3,7 @@ using namespace std;
 int main (){
     // this is naive apporach
    
- int arr[4] ={5,10,20,15};
+ int arr[3] ={1,2,3};
  
 
 for (int i = 0; i < 4; i++)
