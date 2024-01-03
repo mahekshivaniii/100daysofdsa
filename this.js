@@ -19,3 +19,6 @@ function m(){
 }
 
 m()
+
+// access this keyword in object 
+
