@@ -10,3 +10,12 @@ let a =  () => {
 }
 
 console.log(a)
+
+
+//access this with normal function
+
+function m(){
+    console.log(this)
+}
+
+m()
