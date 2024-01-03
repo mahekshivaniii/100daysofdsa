@@ -109,7 +109,8 @@ and there is alternvativetly in for in loop
     </li>
     <li> strict mode (node js Enviornment) this2.js file
       <ol>
-
+         <li>in this we have to write (use strict)</li>
+         <li>when we console this keyword it display empty object</li>
       </ol>
 
     </li>
