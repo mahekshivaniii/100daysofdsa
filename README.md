@@ -1,5 +1,5 @@
-# learning DSA with JS
-# differnce between for in and for of loop is :
+<h1 align="center"> learning DSA </h1>
+<div> </div>differnce between for in and for of loop is :
 in for of loop the variable is access like a value 
 and there is alternvativetly in for in loop
 
