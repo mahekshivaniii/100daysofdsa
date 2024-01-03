@@ -8,3 +8,5 @@
 let a =  () => {
     console.log(this)
 }
+
+console.log(a)
