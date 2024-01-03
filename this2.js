@@ -13,3 +13,14 @@ let a = () => {
 }
 
 console.log(a)
+
+
+let myobj = {
+    name:'mahek',
+    age:45,
+    myFn : function(){
+        console.log(this)
+    }
+}
+
+myobj.myFn()
