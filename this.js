@@ -1,6 +1,6 @@
 // access this keyword in global enivornment 
 
-console.log(this)
+ console.log(this)
 
 
 //access this keyword in function
