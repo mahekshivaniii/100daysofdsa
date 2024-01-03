@@ -107,5 +107,11 @@ and there is alternvativetly in for in loop
         <li> when we print in object->function->function it gave global objec</li>
       </ol>
     </li>
+    <li> strict mode (node js Enviornment)
+      <ol>
+        
+      </ol>
+
+    </li>
   </ul>
  </div>
