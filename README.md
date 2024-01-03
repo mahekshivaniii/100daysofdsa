@@ -90,35 +90,7 @@ and there is alternvativetly in for in loop
       </ul>
     </li>
    
-      <li>find min and max of an array
-        <ul>
-          <li>input : [1,45,56,34]</li>
-          <li>output 56,1</li>
-        </ul>
-      </li>
-      <li>Reverse an array
-        <ul>
-          <li>Even  input : [1,4,5,32]</li>
-          <li>output : 32,5,4,1</li>
-          <li>odd input : [1,23,4,5,6]</li>
-          <li>output : 6,5,4,23,1</li>
-        </ul>
-      </li>
-      <li>Sort An array
-        <ul>
-          <li>input : [0,34,22,56,12]</li>
-          <li> output : [0,12,22,34,56]</li>
-          <li>use bubble sort</li>
-        </ul>
-      </li>
-      <li>Kth element
-        <ul> 
-          <li> input : [34.56,434,65] k =3</li>
-          <li> output the largest element id 434 and smallest is 34  </li>
-          <li>we traverse the array by k element</li>
-         </ul>
-
-      </li>
+      
     </ol>
   
 </div>
