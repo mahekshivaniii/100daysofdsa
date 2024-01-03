@@ -7,3 +7,9 @@ function mahek(){
     console.log(this)
 }
 mahek()
+
+let a = () => {
+    console.log(this)
+}
+
+console.log(a)
