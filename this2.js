@@ -24,3 +24,16 @@ let myobj = {
 }
 
 myobj.myFn()
+
+let myObj2 = {
+    name:'rishika',
+    age:9,
+    myfn1:function(){
+        function myfn3(){
+            console.log(this)
+        }
+        myfn3()
+    }
+}
+
+myObj2.myfn1()
