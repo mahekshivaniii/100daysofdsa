@@ -1,1 +1,1 @@
-document.write("namaste")
+console.log(this)
