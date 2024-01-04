@@ -113,7 +113,7 @@ and there is alternvativetly in for in loop
          <li>when we print in object -> function -> it gave undefined</li>
       </ol>
     </li>
-    <li> non strict mode (browser Enviornment) this3.js 
+    <li> non strict mode (Web  Enviornment) this3.js 
       <ol>
         <li></li>
       </ol>
