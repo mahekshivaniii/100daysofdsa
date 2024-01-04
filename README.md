@@ -90,11 +90,7 @@ and there is alternvativetly in for in loop
       </ul>
     </li>
     </ol>
-   
-      
-  
-  
-</div>
+  </div>
  <div>
   <h1 align="center"> This keyword</h1>
   <ul>
@@ -116,7 +112,11 @@ and there is alternvativetly in for in loop
          <li>when we print object -> function it gave object itself</li>
          <li>when we print in object -> function -> it gave undefined</li>
       </ol>
-
+    </li>
+    <li> non strict mode (browser Enviornment) 
+      <ol>
+        <li></li>
+      </ol>
     </li>
   </ul>
  </div>
