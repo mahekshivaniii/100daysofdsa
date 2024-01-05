@@ -1,4 +1,4 @@
-console.log(this)
+// console.log(this)
 
 //  function mahek() {
 //         console.log(this)
@@ -10,12 +10,14 @@ console.log(this)
 // }
 
 // console.log(a)
-
-let myObj1 = {
+let myobj = {
     name:'mahek',
     age:45,
-   myfn: function (){
+    myFn : function(){
         console.log(this)
     }
 }
+
 myobj.myFn()
+
+
