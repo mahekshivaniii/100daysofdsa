@@ -5,8 +5,8 @@ console.log(this)
  }
 mahek()
 
-// let a =  () => {
-//     console.log(this)
-// }
+let a =  () => {
+    console.log(this)
+}
 
-// console.log(a)
+console.log(a)
