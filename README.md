@@ -117,8 +117,8 @@ and there is alternvativetly in for in loop
     <li> non strict mode (Web  Enviornment) this3.js 
       <ol>
         <li>when we console this keyword it display window object</li>
-         <li>when we print in function it gave undefined</li>
-         <li>when we print in arrow function it gave function name</li>
+         <li>when we print in function it gave window object</li>
+         <li>when we print in arrow function it gave function itself</li>
          <li>when we print object -> function it gave object itself</li>
          <li>when we print in object -> function -> it gave undefined</li>
       </ol>
