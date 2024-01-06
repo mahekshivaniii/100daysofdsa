@@ -8,8 +8,7 @@ using namespace std;
 //User function template for C++
 class Solution{
 public:	
-	/* if x is present in arr[] then returns the count
-		of occurrences of x, otherwise returns 0. */
+	
 	int count(int arr[], int n, int x) {
 	    // code here
 	    int count = 0;
@@ -22,7 +21,7 @@ public:
 	}
 };
 
-//{ Driver Code Starts.
+
 
 int main() {
     int t;
