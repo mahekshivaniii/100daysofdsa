@@ -9,3 +9,8 @@
 //     company:'Mercedes',
 //     color:'Pink'
 // }
+function createCar (_name , _company , _color){
+
+}
+
+let car =  new createCar('X4' , 'BMW' , "Red")
